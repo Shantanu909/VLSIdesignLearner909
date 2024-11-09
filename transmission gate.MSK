@@ -1,0 +1,34 @@
+VERSION 11/5/2024 3:43:58 PM
+FIG #C:\Users\HP\Desktop\Microwind\Microwind\rules\transmission gate.MSK
+BB(26,-16,50,35)
+SIMU #10.00
+REC(26,13,24,22,NW)
+REC(39,19,5,10,DP)
+REC(32,19,5,10,DP)
+REC(39,-12,5,10,DN)
+REC(32,-12,5,10,DN)
+REC(33,26,2,2,CO)
+REC(33,-11,2,2,CO)
+REC(33,-5,2,2,CO)
+REC(41,26,2,2,CO)
+REC(41,-11,2,2,CO)
+REC(41,-5,2,2,CO)
+REC(41,20,2,2,CO)
+REC(33,20,2,2,CO)
+REC(37,16,2,16,PO)
+REC(37,-15,2,16,PO)
+REC(40,-12,4,41,ME)
+REC(32,-16,4,49,ME)
+REC(37,19,2,10,DP)
+REC(37,-12,2,10,DN)
+TITLE 38 0  #~clock5
+$c 1000 0 0.3190 0.3290 0.6480 0.6580 
+TITLE 27 33  #Vdd
+$1 1000 0 
+TITLE 42 7  #s2
+$v 1000 0 
+TITLE 34 6  #clock4
+$c 0 1000 2.6180 2.6280 5.2460 5.2560 
+TITLE 38 17  #clock5
+$c 0 1000 0.3190 0.3290 0.6480 0.6580 
+FFIG C:\Users\HP\Desktop\Microwind\Microwind\rules\transmission gate.MSK

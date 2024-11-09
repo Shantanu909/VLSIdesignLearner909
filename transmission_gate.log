@@ -1,0 +1,16 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\HP\Desktop\Sem5\VD\LTSPICE SIMULATIONS\transmission_gate.asc
+Start Time: Tue Nov  5 22:43:14 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node N003 is floating.
+WARNING: Node N006 is floating.
+WARNING: Node N008 is floating.
+WARNING: Node N007 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.137 seconds.
+

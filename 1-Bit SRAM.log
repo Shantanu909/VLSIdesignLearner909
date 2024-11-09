@@ -1,0 +1,25 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\HP\Desktop\Sem5\VD\LTSPICE SIMULATIONS\1-Bit SRAM.asc
+Start Time: Sat Nov  9 07:46:55 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node N003 is floating.
+WARNING: Node N004 is floating.
+WARNING: Node NC_01 is floating.
+WARNING: Node N008 is floating.
+WARNING: Node N009 is floating.
+WARNING: Node N018 is floating.
+WARNING: Node N019 is floating.
+WARNING: Node N010 is floating.
+WARNING: Node N007 is floating.
+WARNING: Node N015 is floating.
+WARNING: Node N016 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 5e-10
+Changing Tseed to 5e-12
+Total elapsed time: 0.206 seconds.
+
